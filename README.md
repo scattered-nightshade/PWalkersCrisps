@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pwalkerscrisps&label=Profile%20views&color=0e75b6&style=flat" alt="pwalkerscrisps" /> </p>
 
-- 🔭 I’m currently working on **PogCoin-V3**
+- 🔭 I’m currently working on **A dating simulator**
 
 - 🌱 I’m currently learning **React, TypeScript, HTML, CSS**
 
